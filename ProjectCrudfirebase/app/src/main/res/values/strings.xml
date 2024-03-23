@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MangaXplorer</string>
+    <string name="enter_Manga_name">Enter Manga Name</string>
+    <string name="enter_Manga_price">Enter Manga Price</string>
+    <string name="enter_Manga_suited_for">Enter Manga Type</string>
+    <string name="enter_Manga_image_link">Enter Manga Image Link</string>
+    <string name="enter_Manga_link">Enter Manga Link</string>
+    <string name="enter_Manga_description">Enter Manga Description</string>
+    <string name="add_your_Manga">Add Your Manga</string>
+    <string name="update_your_n_Manga">Update Your \n Manga</string>
+    <string name="delete_your_n_Manga">Delete Your \n Manga</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">New User ? Register Here</string>
+    <string name="edit_Manga">Edit Manga</string>
+    <string name="view_details">View Details</string>
+    <string name="description">Description</string>
+    <string name="Manga_name">Manga Name</string>
+    <string name="price">Price</string>
+    <string name="suited_for">Manga Type</string>
+    <string name="suited_for_placeholder">Manga Type %s</string>
+    <string name="price_placeholder">Price %s</string>
+    <string name="description_image">Description Image</string>
+
+</resources>

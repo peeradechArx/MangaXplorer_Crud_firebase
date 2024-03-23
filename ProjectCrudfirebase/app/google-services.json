@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1027967637279",
+    "firebase_url": "https://project-crud-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-crud-firebase",
+    "storage_bucket": "project-crud-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027967637279:android:8dd7a046f216c3448cc22a",
+        "android_client_info": {
+          "package_name": "peeradech.p.firebase_curd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRGMX280-KPQ8rzUhW76dnbiYqxbdJQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027967637279:android:e81d57e5c98547478cc22a",
+        "android_client_info": {
+          "package_name": "peeradech.p.project_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRGMX280-KPQ8rzUhW76dnbiYqxbdJQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
